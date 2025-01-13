@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://roksolanap.github.io/movieCard.site",
+  "homepage": "https://roksolanap.github.io/movie-cards-site",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
